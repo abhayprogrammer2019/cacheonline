@@ -12,6 +12,7 @@ js/default.js
  
 # images
 /favicon.ico
+images/logo.png
  
 NETWORK:
 login.php
